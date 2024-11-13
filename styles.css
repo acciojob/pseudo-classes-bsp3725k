@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.root{
+	background-color:rgb(135, 206, 235);
+}
+ul{
+	width:50%;
+	padding:10px;
+}
+.first-child{
+	background-color:black;
+	color:white;
+}
+.last-child{
+	color:red;
+}
+.fir{
+	background-color:white;
+	color:black;
+	font-size:22px;
+}
+.sec{
+	background-color:grey;
+	color:black;
+	
+}
+.thi{
+	background-color:pink;
+}
